@@ -129,3 +129,8 @@ This project demonstrates how **Tableau can be used to turn raw data into compel
 - Business Intelligence Analyst  
 
 The project showcases the ability to **communicate insights effectively through interactive visual dashboards**.
+
+Links to Projects
+- https://public.tableau.com/app/profile/lelle.szabo/viz/jobchangesdataworkseetsLS/GBEmploymentData?publish=yes
+- https://public.tableau.com/app/profile/lelle.szabo/viz/SpotifyDataset_17707356531160/SpotifyDashboard
+- https://public.tableau.com/app/profile/lelle.szabo/viz/GlobalHealthInsights_17707308600640/GlobalHealthInsights
