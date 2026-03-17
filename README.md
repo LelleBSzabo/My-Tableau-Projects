@@ -130,7 +130,18 @@ This project demonstrates how **Tableau can be used to turn raw data into compel
 
 The project showcases the ability to **communicate insights effectively through interactive visual dashboards**.
 
-Links to Projects
-- https://public.tableau.com/app/profile/lelle.szabo/viz/jobchangesdataworkseetsLS/GBEmploymentData?publish=yes
-- https://public.tableau.com/app/profile/lelle.szabo/viz/SpotifyDataset_17707356531160/SpotifyDashboard
-- https://public.tableau.com/app/profile/lelle.szabo/viz/GlobalHealthInsights_17707308600640/GlobalHealthInsights
+### Global Health Insights
+[Link to my Dashboard](https://public.tableau.com/app/profile/lelle.szabo/viz/GlobalHealthInsights_17707308600640/GlobalHealthInsights)
+
+<img width="510" height="366" alt="image" src="https://github.com/user-attachments/assets/074d0b23-ebe7-4e06-98fb-bbafad86b44f" />
+
+### Job Changes
+[Link to my Dashboard](https://public.tableau.com/app/profile/lelle.szabo/viz/jobchangesdataworkseetsLS/GBEmploymentData?publish=yes)
+
+<img width="510" height="240" alt="image" src="https://github.com/user-attachments/assets/7f2625ed-85cf-4777-9ca1-85cbf5468a15" />
+
+### Spotify Dataset
+[Link to my Dashboard](https://public.tableau.com/app/profile/lelle.szabo/viz/SpotifyDataset_17707356531160/SpotifyDashboard)
+
+<img width="510" height="391" alt="image" src="https://github.com/user-attachments/assets/80986903-7935-47ee-bff1-c41bd5c184fb" />
+
